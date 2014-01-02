@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "dox": "*",
-    "dox-foundation": "~0.5.0",
+    "dox-foundation": "https://github.com/dawicorti/dox-foundation/tarball/master",
     "rimraf": "2.x"
   },
   "devDependencies": {
